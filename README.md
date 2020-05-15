@@ -2,7 +2,7 @@
 
 Descrption of files
 
-Link to our R shiny app website: https://zhue.shinyapps.io/final_project/
+Link to our R shiny app website: https://yluo.shinyapps.io/Starcraft_Analysis/
 
 app.R: Master file containing all codes to create our shiny app website.
 
